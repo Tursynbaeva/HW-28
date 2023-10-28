@@ -1,0 +1,27 @@
+.t1{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+
+}
+
+.t2{
+    text-decoration: line-through;
+}
+
+.t3{
+    font-family: serif;
+    text-align: center;
+}
+
+.t4{
+    color: #66147f;
+    text-decoration: overline wavy;
+    word-spacing: 30px;
+}
+
+.t5{
+    text-decoration: underline double;
+    letter-spacing: 5px;
+}
